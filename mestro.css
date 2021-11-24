@@ -1,0 +1,446 @@
+    /*****************************************first row**********************************************/
+    .a{
+	background-color:purple;
+	height:60px;
+	width:100%;
+	float:left;
+      }
+    .p11{
+	color:pink;
+	margin-left:100px;
+	margin-top:20px;
+	float:left;
+       }
+   .a1{
+	   float:right;
+	   margin-right:170px;
+	   margin-top:15px;
+       }
+	 /*****************************************second row**********************************************/
+	 .b{
+		 //background-color:yellow;
+		 height:200px;
+		 width:100%;
+		 float:left;
+	   }
+	  .b1{
+		  float:left;
+		  margin-left:70px;
+		  margin-top:30px;
+		  
+	      }
+		  
+      .b2{
+			//background-color:yellow;
+             height:200px;
+             width:15%;
+             float:left;
+			 margin-left:6%;
+	     } 
+	   .b3{
+			  //background-color:yellow;
+             height:200px;
+             width:15%;
+             float:left;
+			 margin-right:2%;
+	     } 
+		 .b4{
+			  //background-color:yellow;
+             height:200px;
+             width:15%;
+             float:left;
+			 margin-right:2%;
+	     } 
+			  
+		  /*****************************************3rd row**********************************************/
+		  .c{
+	          background-color:black;
+	          height:60px;
+	          width:100%;
+	          float:left;
+			
+			  
+              }
+		
+		   .navbar{
+			   list-style-type:none;
+		       } 
+			.navbar li a {
+                   text-decoration:none;
+				   color:white;
+				   display:block;
+				   float:left;
+				   margin-bottom:60px;
+				   //padding:3px;
+				    margin-left:70px;
+			      }
+            .navbar li a:hover{
+				
+				           color:blue;
+			             }
+			.dropmenu1 a{
+				        list-style-type:none;  
+				         text-decoration:none;
+						 background-color:white;
+						 color:black;
+						 font-size:20px;
+						 display:block;
+						 padding:5px;
+			          }
+			.dropmenu1{
+                       
+					   position:absolute;
+				       left:180px;
+					   top:50px;
+					   display:none;
+				
+			          }
+			.dropdown1{
+						 position:relative; 
+					  }
+			.dropdown1:hover   .dropmenu1{
+				
+				          display:block;
+			            }
+			.dropmenu2 a{
+				        list-style-type:none;  
+				         text-decoration:none;
+						 background-color:white;
+						 color:black;
+						 font-size:20px;
+						 display:block;
+						 padding:5px;
+			          }
+			.dropmenu2{
+                       
+					   position:absolute;
+				       left:580px;
+					   top:50px;
+					   display:none;
+				
+			          }
+			.dropdown2{
+						 position:relative; 
+					  }
+			.dropdown2:hover   .dropmenu2{
+				
+				          display:block;
+			            }
+			.dropmenu3 a{
+				        list-style-type:none;  
+				         text-decoration:none;
+						 background-color:white;
+						 color:black;
+						 font-size:20px;
+						 display:block;
+						 padding:15px;
+			          }
+			.dropmenu3{
+                       
+					   position:absolute;
+				       left:270px;
+					   top:50px;
+					   display:none;
+				
+			          }
+			.dropdown3{
+						 position:relative; 
+					  }
+			.dropdown3:hover   .dropmenu3{
+				
+				          display:block;
+			            }
+			.dropmenu4 a{
+				        list-style-type:none;  
+				         text-decoration:none;
+						 background-color:white;
+						 color:black;
+						 font-size:20px;
+						 display:block;
+						 padding:10px;
+			          }
+			.dropmenu4{
+                       
+					   position:absolute;
+				       left:400px;
+					   top:50px;
+					   display:none;
+				
+			          }
+			.dropdown4{
+						 position:relative; 
+					  }
+			.dropdown4:hover   .dropmenu4{
+				
+				          display:block;
+			            }
+			.dropmenu5 a{
+				        list-style-type:none;  
+				         text-decoration:none;
+						 background-color:white;
+						 color:black;
+						 font-size:20px;
+						 display:block;
+						 padding:10px;
+			          }
+			.dropmenu5{
+                       
+					   position:absolute;
+				       left:750px;
+					   top:50px;
+					   display:none;
+				
+			          }
+			.dropdown5{
+						 position:relative; 
+					  }
+			.dropdown5:hover   .dropmenu5{
+				
+				          display:block;
+			            }
+			
+/*****************************************4th row**********************************************/						
+	.d{
+     // background-color:green;
+	   height:600px;
+	   width:100%;
+	   float:left;
+	   }		
+	.d1{
+		 height:600px;
+         width:100%;
+         float:left;		 
+		   
+	    }
+/*****************************************5th row**********************************************/
+.e{
+	//background-color:red;
+	height:400px;
+    width:100%;
+    float:left;
+  }
+.e1{
+	//background-color:blue;
+	height:400px;
+    width:35%;
+    float:left;
+  }
+   .p1{
+		  font-size:25px;
+		  margin-top:50px;
+		  text-decoration:underline;
+		  color:black;
+		  color:red;
+	     }
+.e2{
+	//background-color:red;
+	height:400px;
+    width:65%;
+    float:left;
+  }
+	.p2{
+	    margin-top:50px;
+		font-size:20px;
+		color:red;
+	   }
+/*****************************************6th row**********************************************/  
+.f{
+   //background-color:pink;
+   height:250px;
+   width:100% ;  
+   float:left;
+   
+  }
+.f1{
+   //background-color:yellow;
+   height:250px;
+   width:27% ;  
+   float:left; 
+   margin-left:7%;
+   }
+       .m1{
+          height:250px;
+          width:100% ;  
+          float:left; 
+           }
+          .st1{
+			  color:red;
+			  font-size:22px;
+			  
+		     }
+.f2{
+   //background-color:black;
+   height:250px;
+   width:27% ;  
+   float:left;
+   margin-left:2%;
+   }
+   .m2{
+          height:250px;
+          width:100% ;  
+          float:left; 
+          
+           }
+   .st2{
+			  color:red;
+			  font-size:22px;
+			  
+		     }
+.f3{
+   //background-color:blue;
+   height:250px;
+   width:27% ;  
+   float:left;
+   margin-left:2%;
+   
+     }
+	 .m3{
+          height:250px;
+          width:100% ;  
+          float:left; 
+          
+           }
+		   .st3{
+			  color:red;
+			  font-size:22px;			  
+		       }
+/*****************************************7th row**********************************************/
+.g{
+   //background-color:pink;
+   height:250px;
+   width:100% ;  
+   float:left;
+   margin-top:160px;
+  }
+  .g1{
+   //background-color:yellow;
+   height:250px;
+   width:27% ;  
+   float:left; 
+   margin-left:7%;
+   }
+   .g11{
+          height:250px;
+          width:100% ;  
+          float:left; 
+           }
+		    .gg1{
+			  color:red;
+			  font-size:22px;
+		        }
+   .g2{
+  // background-color:black;
+   height:250px;
+   width:27% ;  
+   float:left;
+   margin-left:2%;
+   }
+   .g12{
+          height:250px;
+          width:100% ;  
+          float:left; 
+           }
+		   .gg2{
+			  color:red;
+			  font-size:22px;
+		        }
+ 
+   .g3{
+   //background-color:blue;
+   height:250px;
+   width:27% ;  
+   float:left;
+   margin-left:2%;
+   
+     }
+	 .g13{
+          height:250px;
+          width:100% ;  
+          float:left; 
+           }
+		   .gg3{
+			  color:red;
+			  font-size:22px;
+		       }
+/*****************************************8th row**********************************************/
+ .h{
+	  background-color:black;
+      height:750px;
+      width:100%;
+      float:left;
+      margin-top:150px;	  
+     }
+    .h1{
+	  //background-color:yellow;
+      height:100px;
+      width:100%;
+      float:left;	    
+     }
+	 .h11{
+		 color:white;
+		 font-size:30px;
+		 text-align:center;
+		 margin-top:30px;
+		 text-decoration: underline 5px blue;
+	     }
+	 .h2{
+	  //background-color:green;
+      height:650px;
+      width:100%;
+      float:left;
+      position:relative	  
+     }
+	 .h21{
+		 // background-color:green;
+          height:650px;
+          width:50%;
+          float:left;	    
+		 
+	     }
+		 .h211{
+			  color:white;
+			  margin-left:80px;
+			  font-size:20px;
+		      }
+		 .h212{
+			   position:absolute;
+			   bottom:80px;
+			   left:360px;
+			   font-size:45px;
+			   color:pink;
+			  }
+		 .h213{
+				position:absolute;  
+			    bottom:90px;
+			    left:100px;
+			    font-size:25px;
+				color:pink;
+				 
+			  }
+	.h22{
+		  //background-color:blue;
+          height:650px;
+          width:50%;
+          float:left;	    
+		 
+	     }
+		 .m10{
+			 height:650px;
+             width:100%;
+             float:left;	
+			 
+		     }
+/*****************************************9th row**********************************************/
+.i{
+	background-color:yellow;
+	height:700px;
+	width:100%;
+	float:left;
+  }
+  .m11{
+	  height:700px;
+	  width:100%;
+	  float:left;
+	  
+      }
+/*****************************************10th row**********************************************/
